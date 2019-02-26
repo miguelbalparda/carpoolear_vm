@@ -17,7 +17,7 @@ cd /var/www/html
 echo "cloning frontend"
 git clone https://github.com/STS-Rosario/carpoolear.git
 cd carpoolear
-echo -e "npm install might take a while"
+echo "npm install might take a while"
 npm install
 sed -i 's/https:\/\/carpoolear.com.ar/http:\/\/carpoolear22.test/g' config/dev.env.js
 sed -i 's/https:\/\/carpoolear.com.ar/http:\/\/carpoolear22.test/g' config/prod.env.js
