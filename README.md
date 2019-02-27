@@ -15,7 +15,11 @@ Important files:
 Notes: no emails will be sent (i.e for registration), everything will be saved into logs inside html/carpoolear_backend/storage/logs/
 
 ## Software versions
+
 Ubuntu: 16.04
+
 PHP: 7.2
+
 Apache: 2.4
+
 MariaDB: 10.1
