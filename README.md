@@ -3,7 +3,7 @@
 Vagrant based development environment for carpoolear.com.ar
 
 To start the vm, run `vagrant up`
-Once provisioned, login to the vm using vagrant ssh and run `sh install.sh` from /var/www/
+Once provisioned, login to the vm using `vagrant ssh` and run `sh install.sh` from /var/www/ 
 When the installation finishes the entire app (frontend & backend) will be available at http://carpoolear22.test and http://carpoolear22.test/app
 
 Vagrant plugins needed: - hostmanager (`vagrant plugin install vagrant-hostmanager`)
