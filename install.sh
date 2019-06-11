@@ -1,6 +1,6 @@
 cd /var/www/html
 echo "cloning backend"
-git clone https://github.com/STS-Rosario/carpoolear_backend.git
+git clone https://github.com/miguelbalparda/carpoolear_backend.git
 cd carpoolear_backend
 echo "installing backend"
 composer install
