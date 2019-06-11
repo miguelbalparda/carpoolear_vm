@@ -253,9 +253,9 @@ nodejs:
     settings:
         version: '7'
     npm_packages:
-        - cordova
+        - cordova@^8.0.0
 mariadb:
-    install: '1'
+    install: '0'
     settings:
         version: '10.1'
         root_password: '123'
@@ -276,7 +276,7 @@ mariadb:
             privileges:
                 - ALL
 mysql:
-    install: '0'
+    install: '1'
     settings:
         version: '5.7'
         root_password: '123'
