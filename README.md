@@ -22,4 +22,8 @@ PHP: 7.2
 
 Apache: 2.4
 
-MariaDB: 10.1
+MariaDB: 5.7
+
+Node.js: 7
+
+Cordoba: 8
