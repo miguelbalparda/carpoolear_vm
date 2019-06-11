@@ -22,7 +22,7 @@ PHP: 7.2
 
 Apache: 2.4
 
-MariaDB: 5.7
+MySql: 5.7
 
 Node.js: 7
 
